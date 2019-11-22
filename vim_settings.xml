@@ -1,118 +1,13 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
-    <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/Code/backend/app/Enums/RetailerPaymentStatus.php" timestamp="1560948212671">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="11" column="3" />
-        <mark key="^" line="11" column="3" />
-        <mark key="." line="11" column="3" />
-      </file>
-      <file name="$USER_HOME$/Code/backend/app/Order.php" timestamp="1560948512788">
-        <mark key="'" line="425" column="4" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="9" column="5" filename="$USER_HOME$/Code/backend/app/Enums/RetailerPaymentStatus.php" />
-      <jump line="6" column="0" filename="$USER_HOME$/Code/backend/app/Enums/RetailerPaymentStatus.php" />
-      <jump line="352" column="0" filename="$USER_HOME$/Code/backend/app/Order.php" />
-      <jump line="361" column="4" filename="$USER_HOME$/Code/backend/app/Order.php" />
-      <jump line="414" column="0" filename="$USER_HOME$/Code/backend/app/Order.php" />
-      <jump line="319" column="0" filename="$USER_HOME$/Code/backend/app/Order.php" />
-      <jump line="437" column="0" filename="$USER_HOME$/Code/backend/app/Order.php" />
-      <jump line="333" column="0" filename="$USER_HOME$/Code/backend/app/Order.php" />
-      <jump line="353" column="4" filename="$USER_HOME$/Code/backend/app/Order.php" />
-      <jump line="342" column="4" filename="$USER_HOME$/Code/backend/app/Order.php" />
-      <jump line="331" column="4" filename="$USER_HOME$/Code/backend/app/Order.php" />
-      <jump line="320" column="4" filename="$USER_HOME$/Code/backend/app/Order.php" />
-      <jump line="309" column="4" filename="$USER_HOME$/Code/backend/app/Order.php" />
-      <jump line="299" column="4" filename="$USER_HOME$/Code/backend/app/Order.php" />
-      <jump line="150" column="4" filename="$USER_HOME$/Code/backend/app/Order.php" />
-      <jump line="87" column="4" filename="$USER_HOME$/Code/backend/app/Order.php" />
-      <jump line="77" column="4" filename="$USER_HOME$/Code/backend/app/Order.php" />
-      <jump line="72" column="4" filename="$USER_HOME$/Code/backend/app/Order.php" />
-      <jump line="67" column="4" filename="$USER_HOME$/Code/backend/app/Order.php" />
-      <jump line="62" column="4" filename="$USER_HOME$/Code/backend/app/Order.php" />
-      <jump line="57" column="4" filename="$USER_HOME$/Code/backend/app/Order.php" />
-      <jump line="52" column="4" filename="$USER_HOME$/Code/backend/app/Order.php" />
-      <jump line="37" column="4" filename="$USER_HOME$/Code/backend/app/Order.php" />
-      <jump line="26" column="4" filename="$USER_HOME$/Code/backend/app/Order.php" />
-      <jump line="18" column="4" filename="$USER_HOME$/Code/backend/app/Order.php" />
-      <jump line="415" column="4" filename="$USER_HOME$/Code/backend/app/Order.php" />
-      <jump line="425" column="4" filename="$USER_HOME$/Code/backend/app/Order.php" />
-    </jumps>
-    <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNkZnNkZnNkZiBkZmtzamRsZmsK</text>
-      </register>
-      <register name="-" type="4">
-        <text encoding="base64">ICAgIHNkZnNkZnNkZiBs</text>
-      </register>
-      <register name="/" type="4">
-        <text>public</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHNkZnNkZnNkZiBkZmtzamRsZmsK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHNkZnNkZnNkZiBkZmtzamRsZmsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">c2Rmc2Rmc2RmIGRma3NqZGxmawo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">c2Rmc2Rmc2RmIGRma3NqZGxmawo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">c2Rmc2Rmc2RmIGRma3NqZGxmawo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">c2Rmc2Rmc2RmIGRma3NqZGxmawo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">c2Rmc2Rmc2RmIGRma3NqZGxmawo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">c2Rmc2Rmc2RmIGRma3NqZGxmawo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">c2Rmc2Rmc2RmIGRma3NqZGxmawo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">c2Rmc2Rmc2RmIGRma3NqZGxmawo=</text>
-      </register>
-      <register name=":" type="4">
-        <text>wq</text>
-      </register>
-    </registers>
-    <search>
-      <last-search>public</last-search>
-      <last-offset />
-      <last-pattern>public</last-pattern>
-      <last-replace>field</last-replace>
-      <last-substitute>public</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-search>
-        <entry>final</entry>
-        <entry>class</entry>
-        <entry>public</entry>
-      </history-search>
-      <history-cmd>
-        <entry>help</entry>
-        <entry>s/class/test</entry>
-        <entry>s/public/field/g</entry>
-        <entry>w</entry>
-        <entry>wq</entry>
-      </history-cmd>
-    </history>
+    <state version="5" enabled="false" />
     <shortcut-conflicts />
     <editor>
       <key-repeat enabled="true" />
     </editor>
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
