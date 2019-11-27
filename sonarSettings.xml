@@ -6,8 +6,7 @@
           <option name="hostUrl" value="http://localhost:9000" />
           <option name="name" value="local-sonarqube" />
           <option name="organization" value="" />
-          <option name="passwordChanged" value="true" />
-          <option name="user" value="admin" />
+          <option name="user" value="" />
         </SonarServerConfig>
       </list>
     </option>
