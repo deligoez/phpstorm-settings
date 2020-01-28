@@ -4,13 +4,13 @@
     <property name="created">2019-03-16T12:54:02</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-12-23T17:28:51</property>
+    <property name="modified">2020-01-28T10:12:03</property>
     <property name="originalScheme">GitHub copy</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="2.0" />
+  <option name="LINE_SPACING" value="1.7" />
   <option name="EDITOR_FONT_SIZE" value="23" />
-  <option name="EDITOR_FONT_NAME" value="Fantasque Sans Mono" />
+  <option name="EDITOR_FONT_NAME" value="Dank Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="mononoki" />
   <option name="CONSOLE_FONT_SIZE" value="20" />
