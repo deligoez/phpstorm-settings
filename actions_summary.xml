@@ -53,8 +53,8 @@
         <entry key="ActivateTerminalToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581344508791" />
-              <option name="times" value="12" />
+              <option name="last" value="1581352387761" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
@@ -309,8 +309,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581347147004" />
-              <option name="times" value="35" />
+              <option name="last" value="1581352439132" />
+              <option name="times" value="36" />
             </ActionSummary>
           </value>
         </entry>
@@ -397,8 +397,8 @@
         <entry key="Stop">
           <value>
             <ActionSummary>
-              <option name="last" value="1581345867320" />
-              <option name="times" value="30" />
+              <option name="last" value="1581352280949" />
+              <option name="times" value="32" />
             </ActionSummary>
           </value>
         </entry>
@@ -469,8 +469,8 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1581347154950" />
-              <option name="times" value="46" />
+              <option name="last" value="1581352442392" />
+              <option name="times" value="47" />
             </ActionSummary>
           </value>
         </entry>
