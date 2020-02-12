@@ -13,8 +13,8 @@
         <entry key="$Delete">
           <value>
             <ActionSummary>
-              <option name="last" value="1581422063912" />
-              <option name="times" value="3" />
+              <option name="last" value="1581500282952" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -53,8 +53,8 @@
         <entry key="ActivateTerminalToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581497763098" />
-              <option name="times" value="38" />
+              <option name="last" value="1581500372533" />
+              <option name="times" value="39" />
             </ActionSummary>
           </value>
         </entry>
@@ -245,8 +245,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581497758733" />
-              <option name="times" value="167" />
+              <option name="last" value="1581500363073" />
+              <option name="times" value="168" />
             </ActionSummary>
           </value>
         </entry>
