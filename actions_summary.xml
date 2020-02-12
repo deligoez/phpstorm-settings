@@ -405,8 +405,8 @@
         <entry key="Resume">
           <value>
             <ActionSummary>
-              <option name="last" value="1581419853519" />
-              <option name="times" value="40" />
+              <option name="last" value="1581517002773" />
+              <option name="times" value="42" />
             </ActionSummary>
           </value>
         </entry>
@@ -653,8 +653,8 @@
         <entry key="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581422773188" />
-              <option name="times" value="17" />
+              <option name="last" value="1581517000346" />
+              <option name="times" value="20" />
             </ActionSummary>
           </value>
         </entry>
