@@ -53,8 +53,8 @@
         <entry key="ActivateTerminalToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581493409269" />
-              <option name="times" value="37" />
+              <option name="last" value="1581497763098" />
+              <option name="times" value="38" />
             </ActionSummary>
           </value>
         </entry>
@@ -69,8 +69,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581493935273" />
-              <option name="times" value="521" />
+              <option name="last" value="1581497761751" />
+              <option name="times" value="522" />
             </ActionSummary>
           </value>
         </entry>
@@ -101,8 +101,8 @@
         <entry key="EditorCut">
           <value>
             <ActionSummary>
-              <option name="last" value="1581435698573" />
-              <option name="times" value="38" />
+              <option name="last" value="1581497755860" />
+              <option name="times" value="39" />
             </ActionSummary>
           </value>
         </entry>
@@ -205,8 +205,8 @@
         <entry key="EditorLineStartWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1581491643745" />
-              <option name="times" value="56" />
+              <option name="last" value="1581497752315" />
+              <option name="times" value="57" />
             </ActionSummary>
           </value>
         </entry>
@@ -245,8 +245,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581493403354" />
-              <option name="times" value="165" />
+              <option name="last" value="1581497758733" />
+              <option name="times" value="167" />
             </ActionSummary>
           </value>
         </entry>
