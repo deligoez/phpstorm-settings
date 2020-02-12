@@ -37,8 +37,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1581433031532" />
-              <option name="times" value="95" />
+              <option name="last" value="1581506313601" />
+              <option name="times" value="98" />
             </ActionSummary>
           </value>
         </entry>
@@ -53,8 +53,8 @@
         <entry key="ActivateTerminalToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581503913617" />
-              <option name="times" value="40" />
+              <option name="last" value="1581505601146" />
+              <option name="times" value="41" />
             </ActionSummary>
           </value>
         </entry>
@@ -333,8 +333,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1581435622146" />
-              <option name="times" value="18" />
+              <option name="last" value="1581505664405" />
+              <option name="times" value="19" />
             </ActionSummary>
           </value>
         </entry>
@@ -573,8 +573,8 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1581430579505" />
-              <option name="times" value="88" />
+              <option name="last" value="1581505753313" />
+              <option name="times" value="89" />
             </ActionSummary>
           </value>
         </entry>
