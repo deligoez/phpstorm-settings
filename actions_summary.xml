@@ -554,11 +554,35 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.ide.browsers.actions.BaseOpenInBrowserAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581584158363" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.ide.plugins.PluginManagerMain$2">
           <value>
             <ActionSummary>
               <option name="last" value="1581316270067" />
               <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.plugins.newui.ListPluginComponent$3">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581584475197" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.plugins.newui.ListPluginComponent$4">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581584766004" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -581,8 +605,8 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1581507171933" />
-              <option name="times" value="92" />
+              <option name="last" value="1581584154109" />
+              <option name="times" value="93" />
             </ActionSummary>
           </value>
         </entry>
