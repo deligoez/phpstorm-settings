@@ -157,8 +157,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1581515774762" />
-              <option name="times" value="246" />
+              <option name="last" value="1581597980797" />
+              <option name="times" value="250" />
             </ActionSummary>
           </value>
         </entry>
@@ -181,24 +181,24 @@
         <entry key="EditorLeft">
           <value>
             <ActionSummary>
-              <option name="last" value="1581515848326" />
-              <option name="times" value="115" />
+              <option name="last" value="1581597976410" />
+              <option name="times" value="118" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorLeftWithSelection">
           <value>
             <ActionSummary>
-              <option name="last" value="1581422769845" />
-              <option name="times" value="14" />
+              <option name="last" value="1581597962068" />
+              <option name="times" value="20" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorLineEnd">
           <value>
             <ActionSummary>
-              <option name="last" value="1581429718297" />
-              <option name="times" value="37" />
+              <option name="last" value="1581597975010" />
+              <option name="times" value="38" />
             </ActionSummary>
           </value>
         </entry>
@@ -229,8 +229,8 @@
         <entry key="EditorNextWord">
           <value>
             <ActionSummary>
-              <option name="last" value="1581515850852" />
-              <option name="times" value="48" />
+              <option name="last" value="1581597980031" />
+              <option name="times" value="57" />
             </ActionSummary>
           </value>
         </entry>
@@ -285,8 +285,8 @@
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1581515853105" />
-              <option name="times" value="167" />
+              <option name="last" value="1581597980529" />
+              <option name="times" value="171" />
             </ActionSummary>
           </value>
         </entry>
@@ -317,8 +317,8 @@
         <entry key="EditorUp">
           <value>
             <ActionSummary>
-              <option name="last" value="1581491376903" />
-              <option name="times" value="92" />
+              <option name="last" value="1581597977423" />
+              <option name="times" value="93" />
             </ActionSummary>
           </value>
         </entry>
@@ -477,8 +477,8 @@
         <entry key="ShowIntentionActions">
           <value>
             <ActionSummary>
-              <option name="last" value="1581423438319" />
-              <option name="times" value="139" />
+              <option name="last" value="1581597984052" />
+              <option name="times" value="140" />
             </ActionSummary>
           </value>
         </entry>
@@ -645,8 +645,8 @@
         <entry key="com.intellij.openapi.updateSettings.impl.UpdateChecker$showNotification$1">
           <value>
             <ActionSummary>
-              <option name="last" value="1581590396967" />
-              <option name="times" value="4" />
+              <option name="last" value="1581598002878" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
