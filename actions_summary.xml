@@ -53,8 +53,8 @@
         <entry key="ActivateTerminalToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581516400793" />
-              <option name="times" value="47" />
+              <option name="last" value="1581582867442" />
+              <option name="times" value="48" />
             </ActionSummary>
           </value>
         </entry>
@@ -543,6 +543,14 @@
             <ActionSummary>
               <option name="last" value="1581335890833" />
               <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.ReopenProjectAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581582860162" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
