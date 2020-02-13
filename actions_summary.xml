@@ -45,8 +45,8 @@
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581490877585" />
-              <option name="times" value="6" />
+              <option name="last" value="1581585337094" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -55,6 +55,22 @@
             <ActionSummary>
               <option name="last" value="1581582867442" />
               <option name="times" value="48" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ChangesView.Revert">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581585567054" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="ChangesView.ShowCommitOptions">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581585637437" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -373,8 +389,8 @@
         <entry key="RecentFiles">
           <value>
             <ActionSummary>
-              <option name="last" value="1581427870777" />
-              <option name="times" value="5" />
+              <option name="last" value="1581585619223" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -605,8 +621,8 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1581584154109" />
-              <option name="times" value="93" />
+              <option name="last" value="1581585622967" />
+              <option name="times" value="99" />
             </ActionSummary>
           </value>
         </entry>
