@@ -53,8 +53,8 @@
         <entry key="ActivateTerminalToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581948714062" />
-              <option name="times" value="63" />
+              <option name="last" value="1581953283771" />
+              <option name="times" value="64" />
             </ActionSummary>
           </value>
         </entry>
@@ -85,8 +85,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581935564720" />
-              <option name="times" value="605" />
+              <option name="last" value="1581949855900" />
+              <option name="times" value="606" />
             </ActionSummary>
           </value>
         </entry>
@@ -109,8 +109,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581922017870" />
-              <option name="times" value="156" />
+              <option name="last" value="1581950377238" />
+              <option name="times" value="157" />
             </ActionSummary>
           </value>
         </entry>
@@ -397,8 +397,8 @@
         <entry key="PhpListenDebugAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581600990573" />
-              <option name="times" value="8" />
+              <option name="last" value="1581949818332" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -469,8 +469,8 @@
         <entry key="Run">
           <value>
             <ActionSummary>
-              <option name="last" value="1581946722724" />
-              <option name="times" value="42" />
+              <option name="last" value="1581949823937" />
+              <option name="times" value="45" />
             </ActionSummary>
           </value>
         </entry>
@@ -541,8 +541,8 @@
         <entry key="Stop">
           <value>
             <ActionSummary>
-              <option name="last" value="1581946751655" />
-              <option name="times" value="82" />
+              <option name="last" value="1581949835461" />
+              <option name="times" value="84" />
             </ActionSummary>
           </value>
         </entry>
@@ -573,8 +573,8 @@
         <entry key="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
           <value>
             <ActionSummary>
-              <option name="last" value="1581946503052" />
-              <option name="times" value="24" />
+              <option name="last" value="1581949359654" />
+              <option name="times" value="25" />
             </ActionSummary>
           </value>
         </entry>
@@ -677,8 +677,8 @@
         <entry key="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581936276959" />
-              <option name="times" value="5" />
+              <option name="last" value="1581950346128" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -695,6 +695,14 @@
             <ActionSummary>
               <option name="last" value="1581337670815" />
               <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ui.AnActionButton$AnActionButtonWrapper">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581953277360" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -741,8 +749,8 @@
         <entry key="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581946693704" />
-              <option name="times" value="31" />
+              <option name="last" value="1581950517764" />
+              <option name="times" value="32" />
             </ActionSummary>
           </value>
         </entry>
@@ -751,6 +759,30 @@
             <ActionSummary>
               <option name="last" value="1581425437580" />
               <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.jetbrains.php.ui.PhpUiUtil$1">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581950367617" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.jetbrains.php.ui.PhpUiUtil$2">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581953280038" />
+              <option name="times" value="18" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="editRunConfigurations">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581950343784" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
