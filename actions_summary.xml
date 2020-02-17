@@ -45,16 +45,16 @@
         <entry key="ActivateProjectToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581922221517" />
-              <option name="times" value="10" />
+              <option name="last" value="1581945774631" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="ActivateTerminalToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581925527404" />
-              <option name="times" value="59" />
+              <option name="last" value="1581945762779" />
+              <option name="times" value="60" />
             </ActionSummary>
           </value>
         </entry>
@@ -93,8 +93,8 @@
         <entry key="EditorChooseLookupItem">
           <value>
             <ActionSummary>
-              <option name="last" value="1581601945118" />
-              <option name="times" value="118" />
+              <option name="last" value="1581945835067" />
+              <option name="times" value="119" />
             </ActionSummary>
           </value>
         </entry>
@@ -157,8 +157,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1581922039920" />
-              <option name="times" value="289" />
+              <option name="last" value="1581945832445" />
+              <option name="times" value="290" />
             </ActionSummary>
           </value>
         </entry>
@@ -285,8 +285,8 @@
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1581601756306" />
-              <option name="times" value="196" />
+              <option name="last" value="1581945835697" />
+              <option name="times" value="197" />
             </ActionSummary>
           </value>
         </entry>
@@ -573,8 +573,8 @@
         <entry key="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
           <value>
             <ActionSummary>
-              <option name="last" value="1581601947833" />
-              <option name="times" value="22" />
+              <option name="last" value="1581945794416" />
+              <option name="times" value="23" />
             </ActionSummary>
           </value>
         </entry>
@@ -661,8 +661,8 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1581929069127" />
-              <option name="times" value="111" />
+              <option name="last" value="1581945762171" />
+              <option name="times" value="112" />
             </ActionSummary>
           </value>
         </entry>
