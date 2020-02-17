@@ -29,8 +29,8 @@
         <entry key="$SelectAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1581921951942" />
-              <option name="times" value="37" />
+              <option name="last" value="1581935588661" />
+              <option name="times" value="39" />
             </ActionSummary>
           </value>
         </entry>
@@ -85,8 +85,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581922058642" />
-              <option name="times" value="602" />
+              <option name="last" value="1581935564720" />
+              <option name="times" value="605" />
             </ActionSummary>
           </value>
         </entry>
@@ -261,8 +261,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581922019804" />
-              <option name="times" value="190" />
+              <option name="last" value="1581935589995" />
+              <option name="times" value="192" />
             </ActionSummary>
           </value>
         </entry>
@@ -415,6 +415,14 @@
             <ActionSummary>
               <option name="last" value="1581599341758" />
               <option name="times" value="16" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Register">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581935557372" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
@@ -669,8 +677,8 @@
         <entry key="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581348953389" />
-              <option name="times" value="3" />
+              <option name="last" value="1581935554096" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
