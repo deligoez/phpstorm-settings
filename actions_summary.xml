@@ -53,8 +53,8 @@
         <entry key="ActivateTerminalToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1581947020671" />
-              <option name="times" value="62" />
+              <option name="last" value="1581948714062" />
+              <option name="times" value="63" />
             </ActionSummary>
           </value>
         </entry>
@@ -775,6 +775,14 @@
             <ActionSummary>
               <option name="last" value="1581515808756" />
               <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="org.jetbrains.plugins.terminal.TerminalView$1">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581948567300" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
