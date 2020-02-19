@@ -125,8 +125,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582109519177" />
-              <option name="times" value="234" />
+              <option name="last" value="1582111097364" />
+              <option name="times" value="235" />
             </ActionSummary>
           </value>
         </entry>
@@ -725,8 +725,8 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1582104929653" />
-              <option name="times" value="149" />
+              <option name="last" value="1582111644488" />
+              <option name="times" value="150" />
             </ActionSummary>
           </value>
         </entry>
