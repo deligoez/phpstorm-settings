@@ -61,8 +61,8 @@
         <entry key="ActivateTerminalToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582211178170" />
-              <option name="times" value="117" />
+              <option name="last" value="1582213350217" />
+              <option name="times" value="118" />
             </ActionSummary>
           </value>
         </entry>
@@ -333,8 +333,8 @@
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1582187894058" />
-              <option name="times" value="336" />
+              <option name="last" value="1582213398377" />
+              <option name="times" value="337" />
             </ActionSummary>
           </value>
         </entry>
