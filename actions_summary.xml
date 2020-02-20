@@ -61,8 +61,8 @@
         <entry key="ActivateTerminalToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582202457943" />
-              <option name="times" value="106" />
+              <option name="last" value="1582203687434" />
+              <option name="times" value="107" />
             </ActionSummary>
           </value>
         </entry>
@@ -109,8 +109,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582202206040" />
-              <option name="times" value="1126" />
+              <option name="last" value="1582203627688" />
+              <option name="times" value="1128" />
             </ActionSummary>
           </value>
         </entry>
@@ -133,8 +133,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582202457570" />
-              <option name="times" value="282" />
+              <option name="last" value="1582203695342" />
+              <option name="times" value="285" />
             </ActionSummary>
           </value>
         </entry>
