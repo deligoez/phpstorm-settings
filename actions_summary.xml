@@ -13,8 +13,8 @@
         <entry key="$Delete">
           <value>
             <ActionSummary>
-              <option name="last" value="1582186854709" />
-              <option name="times" value="25" />
+              <option name="last" value="1582200155489" />
+              <option name="times" value="28" />
             </ActionSummary>
           </value>
         </entry>
@@ -45,8 +45,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1582195427023" />
-              <option name="times" value="423" />
+              <option name="last" value="1582199361277" />
+              <option name="times" value="424" />
             </ActionSummary>
           </value>
         </entry>
@@ -61,8 +61,8 @@
         <entry key="ActivateTerminalToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582195594244" />
-              <option name="times" value="99" />
+              <option name="last" value="1582199633644" />
+              <option name="times" value="102" />
             </ActionSummary>
           </value>
         </entry>
@@ -109,8 +109,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582187896393" />
-              <option name="times" value="1118" />
+              <option name="last" value="1582199529118" />
+              <option name="times" value="1123" />
             </ActionSummary>
           </value>
         </entry>
@@ -573,16 +573,16 @@
         <entry key="RunAnything">
           <value>
             <ActionSummary>
-              <option name="last" value="1581515955254" />
-              <option name="times" value="10" />
+              <option name="last" value="1582199358838" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="RunClass">
           <value>
             <ActionSummary>
-              <option name="last" value="1582197085677" />
-              <option name="times" value="6" />
+              <option name="last" value="1582199533195" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -773,8 +773,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582188657884" />
-              <option name="times" value="85" />
+              <option name="last" value="1582199359884" />
+              <option name="times" value="86" />
             </ActionSummary>
           </value>
         </entry>
@@ -861,8 +861,8 @@
         <entry key="com.intellij.util.config.DumbAwareToggleInvertedBooleanProperty">
           <value>
             <ActionSummary>
-              <option name="last" value="1582197666491" />
-              <option name="times" value="10" />
+              <option name="last" value="1582199540177" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
@@ -941,8 +941,8 @@
         <entry key="org.jetbrains.plugins.terminal.TerminalView$1">
           <value>
             <ActionSummary>
-              <option name="last" value="1582185274477" />
-              <option name="times" value="16" />
+              <option name="last" value="1582199785047" />
+              <option name="times" value="18" />
             </ActionSummary>
           </value>
         </entry>
