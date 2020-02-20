@@ -877,16 +877,16 @@
         <entry key="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorAndPreviewLayoutChangeAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581515809768" />
-              <option name="times" value="4" />
+              <option name="last" value="1582183675072" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorOnlyLayoutChangeAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581921970511" />
-              <option name="times" value="10" />
+              <option name="last" value="1582183676032" />
+              <option name="times" value="12" />
             </ActionSummary>
           </value>
         </entry>
