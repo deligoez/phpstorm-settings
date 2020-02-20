@@ -581,8 +581,8 @@
         <entry key="RunClass">
           <value>
             <ActionSummary>
-              <option name="last" value="1581425448564" />
-              <option name="times" value="5" />
+              <option name="last" value="1582197085677" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -861,8 +861,8 @@
         <entry key="com.intellij.util.config.DumbAwareToggleInvertedBooleanProperty">
           <value>
             <ActionSummary>
-              <option name="last" value="1581425502522" />
-              <option name="times" value="4" />
+              <option name="last" value="1582197666491" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
