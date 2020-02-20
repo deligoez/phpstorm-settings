@@ -45,8 +45,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1582199361277" />
-              <option name="times" value="424" />
+              <option name="last" value="1582205760098" />
+              <option name="times" value="425" />
             </ActionSummary>
           </value>
         </entry>
@@ -61,8 +61,8 @@
         <entry key="ActivateTerminalToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582204495114" />
-              <option name="times" value="108" />
+              <option name="last" value="1582205584678" />
+              <option name="times" value="109" />
             </ActionSummary>
           </value>
         </entry>
@@ -117,8 +117,8 @@
         <entry key="EditorChooseLookupItem">
           <value>
             <ActionSummary>
-              <option name="last" value="1582195421218" />
-              <option name="times" value="196" />
+              <option name="last" value="1582205806358" />
+              <option name="times" value="202" />
             </ActionSummary>
           </value>
         </entry>
@@ -189,8 +189,8 @@
         <entry key="EditorEnter">
           <value>
             <ActionSummary>
-              <option name="last" value="1582202200960" />
-              <option name="times" value="477" />
+              <option name="last" value="1582205759524" />
+              <option name="times" value="478" />
             </ActionSummary>
           </value>
         </entry>
@@ -213,8 +213,8 @@
         <entry key="EditorLeft">
           <value>
             <ActionSummary>
-              <option name="last" value="1582201145160" />
-              <option name="times" value="236" />
+              <option name="last" value="1582205751266" />
+              <option name="times" value="240" />
             </ActionSummary>
           </value>
         </entry>
@@ -301,8 +301,8 @@
         <entry key="EditorPreviousWord">
           <value>
             <ActionSummary>
-              <option name="last" value="1582195414826" />
-              <option name="times" value="135" />
+              <option name="last" value="1582205759120" />
+              <option name="times" value="145" />
             </ActionSummary>
           </value>
         </entry>
@@ -327,6 +327,14 @@
             <ActionSummary>
               <option name="last" value="1582186961277" />
               <option name="times" value="23" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorSplitLine">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582205792870" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -581,8 +589,8 @@
         <entry key="RunClass">
           <value>
             <ActionSummary>
-              <option name="last" value="1582199533195" />
-              <option name="times" value="7" />
+              <option name="last" value="1582205820598" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
@@ -613,8 +621,8 @@
         <entry key="ShowIntentionActions">
           <value>
             <ActionSummary>
-              <option name="last" value="1582195423108" />
-              <option name="times" value="178" />
+              <option name="last" value="1582205760505" />
+              <option name="times" value="182" />
             </ActionSummary>
           </value>
         </entry>
@@ -781,8 +789,8 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1582204890780" />
-              <option name="times" value="180" />
+              <option name="last" value="1582205655089" />
+              <option name="times" value="181" />
             </ActionSummary>
           </value>
         </entry>
