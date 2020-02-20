@@ -13,8 +13,8 @@
         <entry key="$Delete">
           <value>
             <ActionSummary>
-              <option name="last" value="1582200155489" />
-              <option name="times" value="28" />
+              <option name="last" value="1582204757822" />
+              <option name="times" value="29" />
             </ActionSummary>
           </value>
         </entry>
@@ -61,8 +61,8 @@
         <entry key="ActivateTerminalToolWindow">
           <value>
             <ActionSummary>
-              <option name="last" value="1582203687434" />
-              <option name="times" value="107" />
+              <option name="last" value="1582204495114" />
+              <option name="times" value="108" />
             </ActionSummary>
           </value>
         </entry>
@@ -682,6 +682,22 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.execution.testframework.sm.runner.history.actions.ImportTestsFromHistoryAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582204479354" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.execution.testframework.sm.runner.history.actions.ImportTestsGroup">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582204478448" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.find.SearchReplaceComponent$11">
           <value>
             <ActionSummary>
@@ -765,8 +781,8 @@
         <entry key="com.intellij.openapi.fileEditor.impl.EditorTabbedContainer$CloseTab">
           <value>
             <ActionSummary>
-              <option name="last" value="1582201839336" />
-              <option name="times" value="179" />
+              <option name="last" value="1582204890780" />
+              <option name="times" value="180" />
             </ActionSummary>
           </value>
         </entry>
