@@ -4,16 +4,16 @@
     <property name="created">2019-03-16T12:54:02</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2020-01-29T11:33:19</property>
+    <property name="modified">2020-02-25T20:37:08</property>
     <property name="originalScheme">GitHub copy</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.7" />
-  <option name="EDITOR_FONT_SIZE" value="22" />
-  <option name="EDITOR_FONT_NAME" value="Dank Mono" />
+  <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="mononoki" />
-  <option name="CONSOLE_FONT_SIZE" value="20" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="15" />
   <option name="CONSOLE_LINE_SPACING" value="1.8" />
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
@@ -223,6 +223,12 @@
         <option name="EFFECT_COLOR" value="cccccc" />
         <option name="ERROR_STRIPE_COLOR" value="ffffcc" />
         <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="9b9b9b" />
+        <option name="BACKGROUND" value="bfddfa" />
       </value>
     </option>
     <option name="JS.BADCHARACTER">

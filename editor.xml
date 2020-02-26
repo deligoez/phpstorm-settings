@@ -1,44 +1,5 @@
 <application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
-    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
-  </component>
-  <component name="CodeInsightSettings">
-    <option name="COMPLETION_CASE_SENSITIVE" value="1" />
-  </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="20" />
-    <option name="FONT_FAMILY" value="Fira Code Retina" />
-    <option name="LINE_SPACING" value="2.0" />
     <option name="USE_LIGATURES" value="true" />
-  </component>
-  <component name="EditorSettings">
-    <option name="languageBreadcrumbsMap">
-      <map>
-        <entry key="CSS" value="true" />
-        <entry key="HTML" value="true" />
-        <entry key="Haml" value="true" />
-        <entry key="JSON" value="true" />
-        <entry key="JavaScript" value="true" />
-        <entry key="LESS" value="true" />
-        <entry key="PHP" value="true" />
-        <entry key="SASS" value="true" />
-        <entry key="SCSS" value="true" />
-        <entry key="TypeScript" value="true" />
-        <entry key="XHTML" value="true" />
-        <entry key="XML" value="true" />
-        <entry key="yaml" value="true" />
-      </map>
-    </option>
-    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
-    <option name="SHOW_BREADCRUMBS" value="false" />
-  </component>
-  <component name="PhpCodeFoldingSettings">
-    <option name="COLLAPSE_PHP_TAGS" value="true" />
-    <option name="COLLAPSE_HERE_DOCS" value="true" />
-    <option name="COLLAPSE_METHOD_BODY" value="true" />
-  </component>
-  <component name="XmlEditorOptions">
-    <option name="showCssInlineColorPreview" value="true" />
   </component>
 </application>
