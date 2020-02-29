@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Brewfile" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="PLAIN_TEXT" />
+      <mapping ext="toml" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
