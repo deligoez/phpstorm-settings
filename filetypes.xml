@@ -4,7 +4,6 @@
       <mapping pattern="Brewfile" type="PLAIN_TEXT" />
       <mapping pattern=".github/workflows/tests.yml" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="yml" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
