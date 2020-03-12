@@ -3,4 +3,5 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="Tinkerwell.Run" />
 </keymap>
