@@ -1,10 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Brewfile" type="PLAIN_TEXT" />
       <mapping pattern=".config/fish/paths.fish" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="Brewfile" type="PLAIN_TEXT" />
       <mapping pattern=".github/workflows/tests.yml" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="ResourceNamesTest" type="PLAIN_TEXT" />
       <mapping ext="fish" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
