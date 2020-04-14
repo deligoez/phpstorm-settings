@@ -4,13 +4,13 @@
     <property name="created">2019-03-16T12:54:02</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2020-04-09T21:56:15</property>
+    <property name="modified">2020-04-14T21:58:16</property>
     <property name="originalScheme">GitHub copy</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.45" />
   <option name="EDITOR_FONT_SIZE" value="20" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value=".SF NS Mono" />
   <option name="CONSOLE_FONT_SIZE" value="16" />
