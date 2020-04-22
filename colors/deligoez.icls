@@ -4,15 +4,14 @@
     <property name="created">2019-03-16T12:54:02</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2020-04-22T15:32:39</property>
+    <property name="modified">2020-04-22T16:26:27</property>
     <property name="originalScheme">GitHub copy</property>
-    <property name="rainbow Default language">true</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.6" />
-  <option name="EDITOR_FONT_SIZE" value="22" />
-  <option name="EDITOR_FONT_NAME" value="Operator Mono" />
+  <option name="LINE_SPACING" value="1.5" />
+  <option name="EDITOR_FONT_SIZE" value="20" />
+  <option name="EDITOR_FONT_NAME" value=".SF NS Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value=".SF NS Mono" />
+  <option name="CONSOLE_FONT_NAME" value="Dank Mono" />
   <option name="CONSOLE_FONT_SIZE" value="16" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
@@ -130,6 +129,11 @@
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="ff" />
+      </value>
+    </option>
+    <option name="DEFAULT_BRACES">
+      <value>
+        <option name="FOREGROUND" value="0" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -12510,18 +12514,24 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="99ccbb" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffff00" />
+      </value>
+    </option>
+    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="b5beca" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="PHP_CLASS">
       <value>
-        <option name="FOREGROUND" value="795da3" />
+        <option name="FOREGROUND" value="35d86" />
       </value>
     </option>
     <option name="PHP_COMMENT">
       <value>
-        <option name="FOREGROUND" value="999988" />
+        <option name="FOREGROUND" value="56606b" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -12538,8 +12548,8 @@
     </option>
     <option name="PHP_DOC_TAG">
       <value>
-        <option name="FOREGROUND" value="999988" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="434b54" />
+        <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -12555,7 +12565,7 @@
     </option>
     <option name="PHP_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="795da3" />
+        <option name="FOREGROUND" value="3b7f89" />
       </value>
     </option>
     <option name="PHP_HEREDOC_CONTENT">
@@ -12570,7 +12580,7 @@
     </option>
     <option name="PHP_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="86b3" />
+        <option name="FOREGROUND" value="2e0d6e" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -12586,8 +12596,8 @@
     </option>
     <option name="PHP_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="a71d5d" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="ca5191" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="PHP_MARKUP_ID">
@@ -12629,12 +12639,12 @@
     </option>
     <option name="PHP_STRING">
       <value>
-        <option name="FOREGROUND" value="183691" />
+        <option name="FOREGROUND" value="ba0011" />
       </value>
     </option>
     <option name="PHP_TAG">
       <value>
-        <option name="FOREGROUND" value="333333" />
+        <option name="FOREGROUND" value="0" />
       </value>
     </option>
     <option name="PHP_VAR">
