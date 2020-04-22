@@ -4,13 +4,13 @@
     <property name="created">2019-03-16T12:54:02</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2020-04-22T15:26:54</property>
+    <property name="modified">2020-04-22T15:32:39</property>
     <property name="originalScheme">GitHub copy</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.5" />
+  <option name="LINE_SPACING" value="1.6" />
   <option name="EDITOR_FONT_SIZE" value="22" />
-  <option name="EDITOR_FONT_NAME" value="OperatorMono Nerd Font" />
+  <option name="EDITOR_FONT_NAME" value="Operator Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value=".SF NS Mono" />
   <option name="CONSOLE_FONT_SIZE" value="16" />
