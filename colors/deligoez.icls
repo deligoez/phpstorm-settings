@@ -4,7 +4,7 @@
     <property name="created">2019-03-16T12:54:02</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2020-04-22T16:42:36</property>
+    <property name="modified">2020-04-22T17:05:20</property>
     <property name="originalScheme">GitHub copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -19,6 +19,8 @@
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="LINE_NUMBERS_COLOR" value="afafaf" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
+    <option name="SELECTION_BACKGROUND" value="d2e3fe" />
+    <option name="SELECTION_FOREGROUND" value="" />
   </colors>
   <attributes>
     <option name="APACHE_CONFIG.ARG_LEXEM">
@@ -217,6 +219,14 @@
       <value>
         <option name="FOREGROUND" value="ffffff" />
         <option name="BACKGROUND" value="ff" />
+      </value>
+    </option>
+    <option name="FOLDED_TEXT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="69747e" />
+        <option name="BACKGROUND" value="e9f4fe" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
@@ -12544,6 +12554,12 @@
       <value>
         <option name="FOREGROUND" value="999988" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_DOC_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="3d227f" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="PHP_DOC_TAG">
