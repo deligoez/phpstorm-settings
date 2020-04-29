@@ -4,7 +4,7 @@
     <property name="created">2019-03-16T12:54:02</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2020-04-29T09:21:32</property>
+    <property name="modified">2020-04-29T12:37:56</property>
     <property name="originalScheme">GitHub copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -18,10 +18,12 @@
     <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="GUTTER_BACKGROUND" value="ffffff" />
+    <option name="INDENT_GUIDE" value="1426e6" />
     <option name="LINE_NUMBERS_COLOR" value="ffffff" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="SELECTION_BACKGROUND" value="d2e3fe" />
     <option name="SELECTION_FOREGROUND" value="" />
+    <option name="TEARLINE_COLOR" value="e3e3e3" />
   </colors>
   <attributes>
     <option name="APACHE_CONFIG.ARG_LEXEM">
