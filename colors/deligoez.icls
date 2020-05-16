@@ -4,7 +4,7 @@
     <property name="created">2019-03-16T12:54:02</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2020-05-16T19:43:23</property>
+    <property name="modified">2020-05-16T21:36:14</property>
     <property name="originalScheme">GitHub copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -228,7 +228,6 @@
       <value>
         <option name="FOREGROUND" value="69747e" />
         <option name="BACKGROUND" value="f6f6f6" />
-        <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
