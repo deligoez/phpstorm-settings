@@ -1,19 +1,27 @@
-<scheme name="deligoez" version="142" parent_scheme="Default">
+<scheme name="deligoez-light" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-03-16T12:54:02</property>
+    <property name="created">2020-05-20T00:11:01</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2020-05-16T21:36:14</property>
-    <property name="originalScheme">GitHub copy</property>
+    <property name="ideVersion">2020.1.1.0.0</property>
+    <property name="modified">2020-05-20T00:29:20</property>
+    <property name="originalScheme">deligoez</property>
+    <property name="rainbow Default language">true</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="22" />
-  <option name="EDITOR_FONT_NAME" value="IBM Plex Mono" />
+  <option name="LINE_SPACING" value="1.5" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Dank Mono" />
+    <option name="EDITOR_FONT_SIZE" value="23" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value=".SF NS Mono" />
+    <option name="EDITOR_FONT_SIZE" value="23" />
+  </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="IBM Plex Mono" />
   <option name="CONSOLE_FONT_SIZE" value="17" />
   <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
@@ -137,9 +145,7 @@
       </value>
     </option>
     <option name="DEFAULT_BRACES">
-      <value>
-        <option name="FOREGROUND" value="0" />
-      </value>
+      <value />
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
@@ -12526,8 +12532,9 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="c0defb" />
+        <option name="FOREGROUND" value="50d0" />
+        <option name="BACKGROUND" value="e6eaf4" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
