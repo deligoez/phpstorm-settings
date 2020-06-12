@@ -25,56 +25,60 @@
         <mark key="." line="1414" column="27" />
         <mark key="^" line="1414" column="27" />
       </file>
-      <file name="$USER_HOME$/Sites/phony/tests/Group/Standard/AddressTest.php" timestamp="1591954046328">
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="20" column="4" />
+      <file name="$USER_HOME$/Sites/phony/tests/Group/Standard/AddressTest.php" timestamp="1591957804697">
+        <mark key="[" line="27" column="5" />
+        <mark key="]" line="27" column="5" />
+        <mark key="." line="27" column="5" />
+        <mark key="^" line="16" column="10" />
       </file>
-      <file name="$USER_HOME$/Sites/phony/tests/Helpers.php" timestamp="1591953859044">
-        <mark key="[" line="28" column="21" />
+      <file name="$USER_HOME$/Sites/phony/tests/Helpers.php" timestamp="1591957658853">
+        <mark key="[" line="28" column="15" />
+        <mark key="]" line="28" column="56" />
+        <mark key="." line="28" column="55" />
+        <mark key="^" line="28" column="56" />
       </file>
       <file name="$USER_HOME$/Sites/mucellithane/resources/views/livewire/auth/register.blade.php" timestamp="1591950230359" />
+      <file name="$USER_HOME$/Sites/phony/vendor/simpleregex/srl-php/src/Builder.php" timestamp="1591956496591" />
     </filemarks>
     <jumps />
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAtPndvcmQoKQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydFJ1bGVzTWF0Y2hpbmcoJHJ1bGVzLCAkdmFsdWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICR0aGlzLT5hc3NlcnRUcnVlKCRyZWdleC0+dGVzdCgkdmFsdWUpKTsK</text>
+        <text encoding="base64">ICAgICR0aGlzLT5hc3NlcnRUcnVlKCRydWxlKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICR0aGlzLT5hc3NlcnRUcnVlKCRyZWdleC0+dGVzdCgkdmFsdWUpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>rule</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFRydWUoJHJlZ2V4LT50ZXN0KCR2YWx1ZSkpOwo=</text>
+        <text encoding="base64">ICAgICR0aGlzLT5hc3NlcnRUcnVlKCRydWxlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICB2YXJfZHVtcCgkcmVnZXgtPmdldFJlZ2V4KCkpOwogICAgZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgICR0aGlzLT5hc3NlcnRUcnVlKCRydWxlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgogICAgJGEgPSByZWdleCgpLT53b3JkKCktPnRlc3QoKTsKICAgIAogICAgLy8kdGhpcy0+YXNzZXJ0TWF0Y2hlc1JlZ3VsYXJFeHByZXNzaW9uKCcvXHcrLycsICR2YWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAtPmlzTWF0Y2hpbmcoJHZhbHVlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICRhLT53b3JkKCk7Cg==</text>
+        <text encoding="base64">ICAgICR0aGlzLT5hc3NlcnRUcnVlCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICRhID0gbmV3IFxWZXJiYWxFeHByZXNzaW9uc1xQSFBWZXJiYWxFeHByZXNzaW9uc1xWZXJiYWxFeHByZXNzaW9ucygpOwo=</text>
+        <text encoding="base64">ICAgICR0aGlzLT5hc3NlcnRNYXRjaGVzUmVndWxhcmRkRXhwcmVzc2lvbignL1xkKy8nLCAkdmFsdWUpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCRhLT5nZXRSZWdleCgpLCAkdmFsdWUpOwogICAgZGllKCk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">YW55Q2hhcmFjdGVyKCkKICAgICAgICAtPndoaXRlc3BhY2UoKQogICAgICAgIC0+YW55Q2hhcmFjdGVyKCk=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAtPmVuZE9mTGluZSgpOwo=</text>
+        <text encoding="base64">CiAgICAkdGhpcy0+YXNzZXJ0TWF0Y2hlc1JlZ3VsYXJFeHByZXNzaW9uKCcvXHcrXHNcdysvJywgJHZhbHVlKTs=</text>
       </register>
       <register name="-" type="4">
-        <text>assertMatchesRegularExpression('/\w+, \w+/', $value);</text>
+        <text>rule</text>
       </register>
     </registers>
   </component>
