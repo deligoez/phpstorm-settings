@@ -11,7 +11,11 @@
     </history>
   </component>
   <component name="VimKeySettings">
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
@@ -19,14 +23,20 @@
       <file name="/Dummy.txt" timestamp="1591951747686">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/mucellithane/resources/views/livewire/auth/login.blade.php" timestamp="1591959908921">
-        <mark key="[" line="61" column="291" />
-        <mark key="]" line="61" column="292" />
+      <file name="$USER_HOME$/Sites/mucellithane/resources/views/livewire/auth/login.blade.php" timestamp="1591979170472">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="35" column="18" />
         <mark key="^" line="61" column="292" />
-        <mark key="." line="61" column="291" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/mucellithane/.gitignore" timestamp="1591960738887">
         <mark key="[" line="2" column="15" />
+      </file>
+      <file name="$USER_HOME$/Sites/mucellithane/resources/views/components/auth/_partial/message.blade.php" timestamp="1591979176561">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/mucellithane/resources/lang/tr/auth.php" timestamp="1591960297655">
         <mark key="'" line="15" column="20" />
@@ -53,8 +63,6 @@
         <mark key="." line="28" column="55" />
         <mark key="^" line="28" column="56" />
       </file>
-      <file name="$USER_HOME$/Sites/mucellithane/resources/views/livewire/auth/register.blade.php" timestamp="1591950230359" />
-      <file name="$USER_HOME$/Sites/phony/vendor/simpleregex/srl-php/src/Builder.php" timestamp="1591956496591" />
     </filemarks>
     <jumps>
       <jump line="15" column="20" filename="$USER_HOME$/Sites/mucellithane/resources/lang/tr/auth.php" />
@@ -63,37 +71,37 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydFJ1bGVzTWF0Y2hpbmcoJHJ1bGVzLCAkdmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQGlmIChzZXNzaW9uKCdtZXNzYWdlJykpCiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJwLTQgYmctZ3JheS0yMDAgcm91bmRlZC1tZCBtdC03Ij4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmbGV4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZmxleC1zaHJpbmstMCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3ZnIGNsYXNzPSJ3LTUgaC01IHRleHQtZ3JheS00MDAiIGZpbGw9ImN1cnJlbnRDb2xvciIgdmlld0JveD0iMCAwIDIwIDIwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZD0iTTEwIDE4YTggOCAwIDEwMC0xNiA4IDggMCAwMDAgMTZ6bTMuNzA3LTkuMjkzYTEgMSAwIDAwLTEuNDE0LTEuNDE0TDkgMTAuNTg2IDcuNzA3IDkuMjkzYTEgMSAwIDAwLTEuNDE0IDEuNDE0bDIgMmExIDEgMCAwMDEuNDE0IDBsNC00eiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGlwLXJ1bGU9ImV2ZW5vZGQiLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3ZnPgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ibWwtMyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0idGV4dC1zbSBmb250LW1lZGl1bSBsZWFkaW5nLTUgdGV4dC1ncmF5LTgwMCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3sgc2Vzc2lvbignbWVzc2FnZScpIH19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJwbC0zIG1sLWF1dG8iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iLW14LTEuNSAtbXktMS41Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJpbmxpbmUtZmxleCByb3VuZGVkLW1kIHAtMS41IHRleHQtZ3JheS01MDAgaG92ZXI6YmctZ3JheS0xMDAgZm9jdXM6b3V0bGluZS1ub25lIGZvY3VzOmJnLWdyYXktMTAwIHRyYW5zaXRpb24gZWFzZS1pbi1vdXQgZHVyYXRpb24tMTUwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHN2ZyBjbGFzcz0idy01IGgtNSIgdmlld0JveD0iMCAwIDIwIDIwIiBmaWxsPSJjdXJyZW50Q29sb3IiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZD0iTTQuMjkzIDQuMjkzYTEgMSAwIDAxMS40MTQgMEwxMCA4LjU4Nmw0LjI5My00LjI5M2ExIDEgMCAxMTEuNDE0IDEuNDE0TDExLjQxNCAxMGw0LjI5MyA0LjI5M2ExIDEgMCAwMS0xLjQxNCAxLjQxNEwxMCAxMS40MTRsLTQuMjkzIDQuMjkzYTEgMSAwIDAxLTEuNDE0LTEuNDE0TDguNTg2IDEwIDQuMjkzIDUuNzA3YTEgMSAwIDAxMC0xLjQxNHoiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGlwLXJ1bGU9ImV2ZW5vZGQiLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgQGVuZGlmCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtPmlzTWF0Y2hpbmcoJHZhbHVlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>u</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQGlmIChzZXNzaW9uKCdtZXNzYWdlJykpCiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJwLTQgYmctZ3JheS0yMDAgcm91bmRlZC1tZCBtdC03Ij4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmbGV4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZmxleC1zaHJpbmstMCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3ZnIGNsYXNzPSJ3LTUgaC01IHRleHQtZ3JheS00MDAiIGZpbGw9ImN1cnJlbnRDb2xvciIgdmlld0JveD0iMCAwIDIwIDIwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZD0iTTEwIDE4YTggOCAwIDEwMC0xNiA4IDggMCAwMDAgMTZ6bTMuNzA3LTkuMjkzYTEgMSAwIDAwLTEuNDE0LTEuNDE0TDkgMTAuNTg2IDcuNzA3IDkuMjkzYTEgMSAwIDAwLTEuNDE0IDEuNDE0bDIgMmExIDEgMCAwMDEuNDE0IDBsNC00eiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGlwLXJ1bGU9ImV2ZW5vZGQiLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3ZnPgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ibWwtMyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0idGV4dC1zbSBmb250LW1lZGl1bSBsZWFkaW5nLTUgdGV4dC1ncmF5LTgwMCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3sgc2Vzc2lvbignbWVzc2FnZScpIH19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJwbC0zIG1sLWF1dG8iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iLW14LTEuNSAtbXktMS41Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJpbmxpbmUtZmxleCByb3VuZGVkLW1kIHAtMS41IHRleHQtZ3JheS01MDAgaG92ZXI6YmctZ3JheS0xMDAgZm9jdXM6b3V0bGluZS1ub25lIGZvY3VzOmJnLWdyYXktMTAwIHRyYW5zaXRpb24gZWFzZS1pbi1vdXQgZHVyYXRpb24tMTUwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHN2ZyBjbGFzcz0idy01IGgtNSIgdmlld0JveD0iMCAwIDIwIDIwIiBmaWxsPSJjdXJyZW50Q29sb3IiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZD0iTTQuMjkzIDQuMjkzYTEgMSAwIDAxMS40MTQgMEwxMCA4LjU4Nmw0LjI5My00LjI5M2ExIDEgMCAxMTEuNDE0IDEuNDE0TDExLjQxNCAxMGw0LjI5MyA0LjI5M2ExIDEgMCAwMS0xLjQxNCAxLjQxNEwxMCAxMS40MTRsLTQuMjkzIDQuMjkzYTEgMSAwIDAxLTEuNDE0LTEuNDE0TDguNTg2IDEwIDQuMjkzIDUuNzA3YTEgMSAwIDAxMC0xLjQxNHoiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGlwLXJ1bGU9ImV2ZW5vZGQiLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgQGVuZGlmCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICR0aGlzLT5hc3NlcnRUcnVlKCRydWxlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQGlmIChzZXNzaW9uKCdtZXNzYWdlJykpCiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJwLTQgYmctZ3JheS0yMDAgcm91bmRlZC1tZCBtdC03Ij4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmbGV4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZmxleC1zaHJpbmstMCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3ZnIGNsYXNzPSJ3LTUgaC01IHRleHQtZ3JheS00MDAiIGZpbGw9ImN1cnJlbnRDb2xvciIgdmlld0JveD0iMCAwIDIwIDIwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsLXJ1bGU9ImV2ZW5vZGQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZD0iTTEwIDE4YTggOCAwIDEwMC0xNiA4IDggMCAwMDAgMTZ6bTMuNzA3LTkuMjkzYTEgMSAwIDAwLTEuNDE0LTEuNDE0TDkgMTAuNTg2IDcuNzA3IDkuMjkzYTEgMSAwIDAwLTEuNDE0IDEuNDE0bDIgMmExIDEgMCAwMDEuNDE0IDBsNC00eiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGlwLXJ1bGU9ImV2ZW5vZGQiLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3ZnPgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ibWwtMyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0idGV4dC1zbSBmb250LW1lZGl1bSBsZWFkaW5nLTUgdGV4dC1ncmF5LTgwMCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAge3sgc2Vzc2lvbignbWVzc2FnZScpIH19CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJwbC0zIG1sLWF1dG8iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iLW14LTEuNSAtbXktMS41Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJpbmxpbmUtZmxleCByb3VuZGVkLW1kIHAtMS41IHRleHQtZ3JheS01MDAgaG92ZXI6YmctZ3JheS0xMDAgZm9jdXM6b3V0bGluZS1ub25lIGZvY3VzOmJnLWdyYXktMTAwIHRyYW5zaXRpb24gZWFzZS1pbi1vdXQgZHVyYXRpb24tMTUwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHN2ZyBjbGFzcz0idy01IGgtNSIgdmlld0JveD0iMCAwIDIwIDIwIiBmaWxsPSJjdXJyZW50Q29sb3IiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZD0iTTQuMjkzIDQuMjkzYTEgMSAwIDAxMS40MTQgMEwxMCA4LjU4Nmw0LjI5My00LjI5M2ExIDEgMCAxMTEuNDE0IDEuNDE0TDExLjQxNCAxMGw0LjI5MyA0LjI5M2ExIDEgMCAwMS0xLjQxNCAxLjQxNEwxMCAxMS40MTRsLTQuMjkzIDQuMjkzYTEgMSAwIDAxLTEuNDE0LTEuNDE0TDguNTg2IDEwIDQuMjkzIDUuNzA3YTEgMSAwIDAxMC0xLjQxNHoiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGlwLXJ1bGU9ImV2ZW5vZGQiLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9zdmc+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgQGVuZGlmCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAtPmRkaXNNYXRjaGluZygkdmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAtPmlzTWF0Y2hpbmcoJHZhbHVlKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICR0aGlzLT5hc3NlcnRUcnVlKCRydWxlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICR0aGlzLT5hc3NlcnRUcnVlKCRydWxlKTsK</text>
+        <text encoding="base64">ICAgICAgICAtPmRkaXNNYXRjaGluZygkdmFsdWUpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICR0aGlzLT5hc3NlcnRUcnVlKCRydWxlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtPmlzTWF0Y2hpbmcoJHZhbHVlKTsK</text>
+        <text encoding="base64">ICAgICR0aGlzLT5hc3NlcnRUcnVlKCRydWxlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICR0aGlzLT5hc3NlcnRUcnVlCg==</text>
+        <text encoding="base64">ICAgICR0aGlzLT5hc3NlcnRUcnVlKCRydWxlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtPmlzTWF0Y2hpbmcoJHZhbHVlKTsK</text>
       </register>
       <register name="-" type="4">
         <text>u</text>
@@ -107,7 +115,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
