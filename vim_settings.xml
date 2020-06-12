@@ -19,6 +19,12 @@
       <file name="/Dummy.txt" timestamp="1591951747686">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/mucellithane/resources/views/livewire/auth/login.blade.php" timestamp="1591959908921">
+        <mark key="[" line="61" column="291" />
+        <mark key="]" line="61" column="292" />
+        <mark key="^" line="61" column="292" />
+        <mark key="." line="61" column="291" />
+      </file>
       <file name="$USER_HOME$/Sites/phony/src/Locale/tr/person/last_name.php" timestamp="1586275146378">
         <mark key="[" line="1414" column="20" />
         <mark key="]" line="1414" column="27" />
