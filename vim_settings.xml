@@ -25,11 +25,11 @@
         <mark key="." line="1414" column="27" />
         <mark key="^" line="1414" column="27" />
       </file>
-      <file name="$USER_HOME$/Sites/phony/tests/Group/Standard/AddressTest.php" timestamp="1591957804697">
-        <mark key="[" line="27" column="5" />
-        <mark key="]" line="27" column="5" />
-        <mark key="." line="27" column="5" />
-        <mark key="^" line="16" column="10" />
+      <file name="$USER_HOME$/Sites/phony/tests/Group/Standard/AddressTest.php" timestamp="1591957978712">
+        <mark key="[" line="30" column="23" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="25" />
       </file>
       <file name="$USER_HOME$/Sites/phony/tests/Helpers.php" timestamp="1591957658853">
         <mark key="[" line="28" column="15" />
@@ -48,34 +48,34 @@
         <text encoding="base64">ICAgIGFzc2VydFJ1bGVzTWF0Y2hpbmcoJHJ1bGVzLCAkdmFsdWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICR0aGlzLT5hc3NlcnRUcnVlKCRydWxlKTsK</text>
+        <text encoding="base64">ICAgICAgICAtPmlzTWF0Y2hpbmcoJHZhbHVlKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>rule</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAtPmlzTWF0Y2hpbmcoJHZhbHVlKTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICR0aGlzLT5hc3NlcnRUcnVlKCRydWxlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICR0aGlzLT5hc3NlcnRUcnVlKCRydWxlKTsK</text>
+        <text encoding="base64">ICAgICAgICAtPmRkaXNNYXRjaGluZygkdmFsdWUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAtPmlzTWF0Y2hpbmcoJHZhbHVlKTsK</text>
+        <text encoding="base64">ICAgICR0aGlzLT5hc3NlcnRUcnVlKCRydWxlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICR0aGlzLT5hc3NlcnRUcnVlCg==</text>
+        <text encoding="base64">ICAgICR0aGlzLT5hc3NlcnRUcnVlKCRydWxlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICR0aGlzLT5hc3NlcnRUcnVlKCRydWxlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICR0aGlzLT5hc3NlcnRNYXRjaGVzUmVndWxhcmRkRXhwcmVzc2lvbignL1xkKy8nLCAkdmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAtPmlzTWF0Y2hpbmcoJHZhbHVlKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">YW55Q2hhcmFjdGVyKCkKICAgICAgICAtPndoaXRlc3BhY2UoKQogICAgICAgIC0+YW55Q2hhcmFjdGVyKCk=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICR0aGlzLT5hc3NlcnRUcnVlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAkdGhpcy0+YXNzZXJ0TWF0Y2hlc1JlZ3VsYXJFeHByZXNzaW9uKCcvXHcrXHNcdysvJywgJHZhbHVlKTs=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>rule</text>
