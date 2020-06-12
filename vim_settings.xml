@@ -25,6 +25,13 @@
         <mark key="^" line="61" column="292" />
         <mark key="." line="61" column="291" />
       </file>
+      <file name="$USER_HOME$/Sites/mucellithane/resources/lang/tr/auth.php" timestamp="1591960297655">
+        <mark key="'" line="15" column="20" />
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="26" />
+        <mark key="." line="15" column="25" />
+        <mark key="^" line="15" column="26" />
+      </file>
       <file name="$USER_HOME$/Sites/phony/src/Locale/tr/person/last_name.php" timestamp="1586275146378">
         <mark key="[" line="1414" column="20" />
         <mark key="]" line="1414" column="27" />
@@ -46,7 +53,9 @@
       <file name="$USER_HOME$/Sites/mucellithane/resources/views/livewire/auth/register.blade.php" timestamp="1591950230359" />
       <file name="$USER_HOME$/Sites/phony/vendor/simpleregex/srl-php/src/Builder.php" timestamp="1591956496591" />
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="15" column="20" filename="$USER_HOME$/Sites/mucellithane/resources/lang/tr/auth.php" />
+    </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
@@ -56,8 +65,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAtPmlzTWF0Y2hpbmcoJHZhbHVlKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAtPmlzTWF0Y2hpbmcoJHZhbHVlKTsK</text>
+      <register name="&quot;" type="4">
+        <text>u</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICR0aGlzLT5hc3NlcnRUcnVlKCRydWxlKTsK</text>
@@ -84,7 +93,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>rule</text>
+        <text>u</text>
       </register>
     </registers>
   </component>
