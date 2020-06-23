@@ -4,17 +4,16 @@
     <property name="created">2020-03-19T20:05:35</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-03-27T21:52:14</property>
+    <property name="modified">2020-05-21T10:51:46</property>
     <property name="originalScheme">vuesion-theme</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.8" />
-  <option name="EDITOR_FONT_SIZE" value="18" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="LINE_SPACING" value="1.5" />
+  <option name="EDITOR_FONT_SIZE" value="22" />
+  <option name="EDITOR_FONT_NAME" value="Dank Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="15" />
   <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.5" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="40bf77" />
     <option name="CARET_COLOR" value="ececee" />
@@ -175,7 +174,7 @@
         <option name="FOREGROUND" value="1a1f29" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
+    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="" />
     <option name="CONDITIONALLY_NOT_COMPILED">
       <value>
         <option name="FOREGROUND" value="536c46" />
@@ -1051,7 +1050,7 @@
       <value>
         <option name="EFFECT_COLOR" value="d5aa00" />
         <option name="ERROR_STRIPE_COLOR" value="d5aa00" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
@@ -3394,7 +3393,7 @@
         <option name="FOREGROUND" value="d5aa00" />
         <option name="EFFECT_COLOR" value="d5aa00" />
         <option name="ERROR_STRIPE_COLOR" value="d5aa00" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">

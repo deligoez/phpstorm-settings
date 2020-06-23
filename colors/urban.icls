@@ -4,18 +4,13 @@
     <property name="created">2018-06-15T19:00:07</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2020-04-22T16:13:25</property>
+    <property name="modified">2020-05-20T00:14:25</property>
     <property name="originalScheme">urban</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.6" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="SF Mono" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Monaco" />
-    <option name="EDITOR_FONT_SIZE" value="18" />
-  </font>
+  <option name="LINE_SPACING" value="1.5" />
+  <option name="EDITOR_FONT_SIZE" value="22" />
+  <option name="EDITOR_FONT_NAME" value="Dank Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="13" />
