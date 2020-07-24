@@ -1,11 +1,7 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="30af4a28-1981-423e-ac47-31b6b14a4cb6" name="PHP 7.4" home="/usr/local/Cellar/php/7.4.8/bin/php" debugger_id="php.debugger.XDebug">
-        <configuration_options>
-          <configuration_option name="xdebug.remote_mode" value="jit" />
-        </configuration_options>
-      </interpreter>
+      <interpreter id="30af4a28-1981-423e-ac47-31b6b14a4cb6" name="PHP 7.4" home="/usr/local/Cellar/php/7.4.8/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
