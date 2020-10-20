@@ -1,12 +1,8 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="php_cs" type="PHP" />
       <mapping ext="fish" type="PLAIN_TEXT" />
-      <mapping ext="yaml" type="YAML" />
-      <mapping ext="yml" type="YAML" />
-      <removed_mapping ext="yml" type="YAML_EX" />
-      <removed_mapping ext="yaml" type="YAML_EX" />
     </extensionMap>
   </component>
 </application>
