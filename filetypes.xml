@@ -1,11 +1,9 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="csv" type="CSV file" />
       <mapping ext="php_cs" type="PHP" />
+      <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="fish" type="PLAIN_TEXT" />
-      <mapping ext="yaml" type="YAML" />
-      <mapping ext="yml" type="YAML" />
     </extensionMap>
   </component>
 </application>
