@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="php_cs" type="PHP" />
-      <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="fish" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
