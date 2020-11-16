@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="php_cs" type="PHP" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
