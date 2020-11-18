@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping ext="php_cs" type="PHP" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
-      <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="fish" type="PLAIN_TEXT" />
       <mapping ext="tx" type="PLAIN_TEXT" />
     </extensionMap>
