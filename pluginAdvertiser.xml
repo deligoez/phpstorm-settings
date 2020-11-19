@@ -107,6 +107,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.cfg">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.plugins.ini4idea" />
+              <option name="myPluginName" value="Ini" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.chm">
           <value>
             <plugin>
@@ -164,8 +173,9 @@
         <entry key="*.csv">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.andrey4623.rainbowcsv" />
-              <option name="myPluginName" value="Rainbow CSV" />
+              <option name="myPluginId" value="com.intellij.database" />
+              <option name="myPluginName" value="Database Tools and SQL" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -330,6 +340,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.haml">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.haml" />
+              <option name="myPluginName" value="Haml" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.har">
           <value>
             <plugin>
@@ -420,6 +439,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.ijperf">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.performancePlugin" />
+              <option name="myPluginName" value="Performance Testing" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.iml">
           <value>
             <plugin>
@@ -434,6 +462,15 @@
             <plugin>
               <option name="myPluginId" value="com.jetbrains.php" />
               <option name="myPluginName" value="PHP" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.ini">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.plugins.ini4idea" />
+              <option name="myPluginName" value="Ini" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -506,6 +543,15 @@
             <plugin>
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.jql">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij.tasks" />
+              <option name="myPluginName" value="Task Management" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -609,6 +655,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.less">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.less" />
+              <option name="myPluginName" value="Less" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.log">
           <value>
             <plugin>
@@ -704,6 +759,14 @@
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pcss">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.intellij.plugins.postcss" />
+              <option name="myPluginName" value="PostCSS" />
             </plugin>
           </value>
         </entry>
@@ -842,6 +905,24 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.po">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.localization" />
+              <option name="myPluginName" value="GNU GetText files support (*.po)" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.pot">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.jetbrains.plugins.localization" />
+              <option name="myPluginName" value="GNU GetText files support (*.po)" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.ppm">
           <value>
             <plugin>
@@ -875,6 +956,14 @@
               <option name="myPluginId" value="com.intellij.platform.images" />
               <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.psv">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="net.seesharpsoft.intellij.plugins.csv" />
+              <option name="myPluginName" value="CSV Plugin" />
             </plugin>
           </value>
         </entry>
@@ -1010,6 +1099,14 @@
               <option name="myPluginId" value="com.intellij" />
               <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key="*.tab">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="net.seesharpsoft.intellij.plugins.csv" />
+              <option name="myPluginName" value="CSV Plugin" />
             </plugin>
           </value>
         </entry>
@@ -1360,6 +1457,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key=".flowconfig">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.jetbrains.plugins.ini4idea" />
+              <option name="myPluginName" value="Ini" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key=".gitmodules">
           <value>
             <plugin>
@@ -1406,6 +1512,15 @@
           </value>
         </entry>
         <entry key=".nvmrc">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
+        <entry key=".prettierrc">
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij" />
@@ -1670,6 +1785,11 @@
                   <entry key="UtPlSqlConfigurationType">
                     <value>
                       <FeaturePluginData displayName="utPLSQL Test" pluginName="Database Tools and SQL" pluginId="com.intellij.database" />
+                    </value>
+                  </entry>
+                  <entry key="XSLT">
+                    <value>
+                      <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" />
                     </value>
                   </entry>
                   <entry key="js.build_tools.grunt">
