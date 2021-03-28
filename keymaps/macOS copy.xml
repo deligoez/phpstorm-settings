@@ -1,0 +1,31 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ActivateCommitToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="FileChooser.GotoProject" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="List-selectNextColumn">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="NextOccurence" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="meta alt down" />
+  </action>
+  <action id="Table-selectNextColumn">
+    <keyboard-shortcut first-keystroke="right" />
+  </action>
+  <action id="TodoViewGroupByFlattenPackage" />
+</keymap>
