@@ -1,19 +1,23 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="30af4a28-1981-423e-ac47-31b6b14a4cb6" name="PHP 7.4" home="/opt/homebrew/Cellar/php@7.4/7.4.16/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="30af4a28-1981-423e-ac47-31b6b14a4cb6" name="PHP 7.4" home="/opt/homebrew/Cellar/php@7.4/7.4.18/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.4">
-        <phpinfo binary_type="PHP" php_cgi="/opt/homebrew/Cellar/php@7.4/7.4.16/bin/php-cgi" php_cli="/opt/homebrew/Cellar/php@7.4/7.4.16/bin/php" path_separator=":" version="7.4.16">
-          <additional_php_ini>/opt/homebrew/etc/php/7.4/conf.d/error_log.ini, /opt/homebrew/etc/php/7.4/conf.d/ext-opcache.ini, /opt/homebrew/etc/php/7.4/conf.d/igbinary.ini, /opt/homebrew/etc/php/7.4/conf.d/imagick.ini, /opt/homebrew/etc/php/7.4/conf.d/msgpack.ini, /opt/homebrew/etc/php/7.4/conf.d/php-memory-limits.ini, /opt/homebrew/etc/php/7.4/conf.d/redis.ini</additional_php_ini>
+        <phpinfo binary_type="PHP" php_cgi="/opt/homebrew/Cellar/php@7.4/7.4.18/bin/php-cgi" php_cli="/opt/homebrew/Cellar/php@7.4/7.4.18/bin/php" path_separator=":" version="7.4.18">
+          <additional_php_ini>/opt/homebrew/etc/php/7.4/conf.d/error_log.ini, /opt/homebrew/etc/php/7.4/conf.d/ext-opcache.ini, /opt/homebrew/etc/php/7.4/conf.d/ext-xdebug.ini, /opt/homebrew/etc/php/7.4/conf.d/igbinary.ini, /opt/homebrew/etc/php/7.4/conf.d/imagick.ini, /opt/homebrew/etc/php/7.4/conf.d/msgpack.ini, /opt/homebrew/etc/php/7.4/conf.d/php-memory-limits.ini, /opt/homebrew/etc/php/7.4/conf.d/redis.ini</additional_php_ini>
           <configuration_file>/opt/homebrew/etc/php/7.4/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/opt/homebrew/Cellar/php@7.4/7.4.16/share/php@7.4/pear" />
+            <configuration_option name="include_path" value=".:/opt/homebrew/Cellar/php@7.4/7.4.18/share/php@7.4/pear" />
           </configuration_options>
-          <debuggers />
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="3.0.4">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
           <loaded_extensions>
             <extension name="Core" />
             <extension name="FFI" />
@@ -77,6 +81,7 @@
             <extension name="sysvshm" />
             <extension name="tidy" />
             <extension name="tokenizer" />
+            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlrpc" />
