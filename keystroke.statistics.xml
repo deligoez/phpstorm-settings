@@ -5,7 +5,9 @@
       <map>
         <entry key="2021">
           <value>
-            <map />
+            <map>
+              <entry key="187" value="1" />
+            </map>
           </value>
         </entry>
         <entry key="2022">
