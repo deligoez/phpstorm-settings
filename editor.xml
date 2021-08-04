@@ -6,12 +6,14 @@
   </component>
   <component name="CodeInsightSettings">
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="22" />
-    <option name="FONT_FAMILY" value="Dank Mono" />
-    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
-    <option name="LINE_SPACING" value="1.5" />
+    <option name="FONT_FAMILY" value="Operator Mono" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Book" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Medium" />
+    <option name="LINE_SPACING" value="1.7" />
     <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
