@@ -1,5 +1,5 @@
 <templateSet group="PHP">
-  <template name="@test" value="/** @test */&#10;public function $NAME$(): void&#10;{&#10;    // region 1️⃣ Arrange 🏗&#10;    // TODO:$END$&#10;    // endregion&#10;&#10;    // region 2️⃣ Act 🏋🏻‍&#10;    // TODO:&#10;    // endregion&#10;&#10;    // region 3️⃣ Assert ✅&#10;    // TODO:&#10;    // endregion&#10;}" description="" toReformat="false" toShortenFQNames="true">
+  <template name="@test" value="/** @test */&#10;public function $NAME$(): void&#10;{&#10;    // 1️⃣ Arrange 🏗&#10;    // TODO:$END$&#10;&#10;    // 2️⃣ Act 🏋🏻‍&#10;    // TODO:&#10;&#10;    // 3️⃣ Assert ✅&#10;    // TODO:&#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
