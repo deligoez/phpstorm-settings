@@ -30,13 +30,20 @@
       <list>
         <option value="Default.Root" />
         <option value="Default.Subject" />
-        <option value="Default.Author" />
-        <option value="Default.Date" />
       </list>
+    </option>
+    <option name="COLUMN_ID_VISIBILITY">
+      <map>
+        <entry key="Table.Default.Author.ColumnIdVisibility" value="false" />
+        <entry key="Table.Default.Date.ColumnIdVisibility" value="false" />
+      </map>
     </option>
   </component>
   <component name="VcsApplicationSettings">
     <option name="SHOW_LST_GUTTER_MARKERS" value="false" />
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+  </component>
+  <component name="VcsEditorTab.Settings">
+    <option name="openInNewWindow" value="true" />
   </component>
 </application>
