@@ -21,11 +21,18 @@
     <keyboard-shortcut first-keystroke="right" />
   </action>
   <action id="NextOccurence" />
+  <action id="RunClass" />
+  <action id="RunDashboard.Run" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="meta alt down" />
   </action>
   <action id="Table-selectNextColumn">
     <keyboard-shortcut first-keystroke="right" />
   </action>
+  <action id="Tinkerwell.Run">
+    <keyboard-shortcut first-keystroke="meta alt r" second-keystroke="t" />
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
   <action id="TodoViewGroupByFlattenPackage" />
+  <action id="runShellFileAction" />
 </keymap>
