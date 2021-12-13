@@ -3,6 +3,7 @@
     <option name="UI_FILTER_LEGALS" value="true" />
   </component>
   <component name="UISettings">
+    <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="CLOSE_TAB_BUTTON_ON_THE_RIGHT" value="false" />
     <option name="compactTreeIndents" value="true" />
     <option name="DISABLE_MNEMONICS" value="false" />
