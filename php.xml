@@ -1,23 +1,19 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="30af4a28-1981-423e-ac47-31b6b14a4cb6" name="PHP" home="/opt/homebrew/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="30af4a28-1981-423e-ac47-31b6b14a4cb6" name="PHP" home="/opt/homebrew/opt/php@8.0/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP">
-        <phpinfo binary_type="PHP" php_cgi="/opt/homebrew/Cellar/php/8.0.12/bin/php-cgi" php_cli="/opt/homebrew/Cellar/php/8.0.12/bin/php" path_separator=":" version="8.0.12">
-          <additional_php_ini>/opt/homebrew/etc/php/8.0/conf.d/error_log.ini, /opt/homebrew/etc/php/8.0/conf.d/ext-opcache.ini, /opt/homebrew/etc/php/8.0/conf.d/ext-xdebug.ini, /opt/homebrew/etc/php/8.0/conf.d/igbinary.ini, /opt/homebrew/etc/php/8.0/conf.d/imagick.ini, /opt/homebrew/etc/php/8.0/conf.d/msgpack.ini, /opt/homebrew/etc/php/8.0/conf.d/php-memory-limits.ini, /opt/homebrew/etc/php/8.0/conf.d/redis.ini</additional_php_ini>
+        <phpinfo binary_type="PHP" php_cgi="/opt/homebrew/Cellar/php@8.0/8.0.14/bin/php-cgi" php_cli="/opt/homebrew/Cellar/php@8.0/8.0.14/bin/php" path_separator=":" version="8.0.14">
+          <additional_php_ini>/opt/homebrew/etc/php/8.0/conf.d/error_log.ini, /opt/homebrew/etc/php/8.0/conf.d/ext-opcache.ini, /opt/homebrew/etc/php/8.0/conf.d/igbinary.ini, /opt/homebrew/etc/php/8.0/conf.d/imagick.ini, /opt/homebrew/etc/php/8.0/conf.d/msgpack.ini, /opt/homebrew/etc/php/8.0/conf.d/php-memory-limits.ini, /opt/homebrew/etc/php/8.0/conf.d/redis.ini</additional_php_ini>
           <configuration_file>/opt/homebrew/etc/php/8.0/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/opt/homebrew/Cellar/php/8.0.12/share/php/pear" />
+            <configuration_option name="include_path" value=".:/opt/homebrew/Cellar/php@8.0/8.0.14/share/php@8.0/pear" />
           </configuration_options>
-          <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="3.0.4">
-              <debug_extensions />
-            </debugger_info>
-          </debuggers>
+          <debuggers />
           <loaded_extensions>
             <extension name="Core" />
             <extension name="FFI" />
@@ -81,7 +77,6 @@
             <extension name="sysvshm" />
             <extension name="tidy" />
             <extension name="tokenizer" />
-            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlwriter" />
