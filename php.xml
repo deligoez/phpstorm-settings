@@ -1,17 +1,17 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="30af4a28-1981-423e-ac47-31b6b14a4cb6" name="PHP" home="/opt/homebrew/Cellar/php/8.1.3/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="30af4a28-1981-423e-ac47-31b6b14a4cb6" name="PHP" home="/opt/homebrew/Cellar/php/8.1.3_1/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP">
-        <phpinfo binary_type="PHP" php_cgi="/opt/homebrew/Cellar/php/8.1.3/bin/php-cgi" php_cli="/opt/homebrew/Cellar/php/8.1.3/bin/php" path_separator=":" version="8.1.3">
+        <phpinfo binary_type="PHP" php_cgi="/opt/homebrew/Cellar/php/8.1.3_1/bin/php-cgi" php_cli="/opt/homebrew/Cellar/php/8.1.3_1/bin/php" path_separator=":" version="8.1.3">
           <additional_php_ini>/opt/homebrew/etc/php/8.1/conf.d/error_log.ini, /opt/homebrew/etc/php/8.1/conf.d/ext-opcache.ini, /opt/homebrew/etc/php/8.1/conf.d/igbinary.ini, /opt/homebrew/etc/php/8.1/conf.d/imagick.ini, /opt/homebrew/etc/php/8.1/conf.d/msgpack.ini, /opt/homebrew/etc/php/8.1/conf.d/php-memory-limits.ini, /opt/homebrew/etc/php/8.1/conf.d/redis.ini</additional_php_ini>
           <configuration_file>/opt/homebrew/etc/php/8.1/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/opt/homebrew/Cellar/php/8.1.3/share/php/pear" />
+            <configuration_option name="include_path" value=".:/opt/homebrew/Cellar/php/8.1.3_1/share/php/pear" />
           </configuration_options>
           <debuggers />
           <loaded_extensions>
