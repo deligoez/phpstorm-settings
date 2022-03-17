@@ -5,10 +5,5 @@
     <option name="dotExecutable" value="/opt/homebrew/bin/dot" />
     <option name="includedPaths" value="" />
     <option name="lastBundledVersion" value="1.2022.1" />
-    <option name="previewSettings">
-      <PreviewSettings>
-        <option name="splitEditorLayout" value="Show editor only" />
-      </PreviewSettings>
-    </option>
   </component>
 </application>
