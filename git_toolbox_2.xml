@@ -1,9 +1,10 @@
 <application>
   <component name="GitToolBoxAppSettings2">
+    <option name="autoFetchEnabled" value="false" />
     <option name="blameInlineDateType" value="RELATIVE" />
     <option name="commitDialogGitmojiCompletion" value="true" />
     <option name="commitDialogGitmojiCompletionUnicode" value="true" />
     <option name="previousVersionMigrated" value="true" />
-    <option name="version" value="3" />
+    <option name="version" value="6" />
   </component>
 </application>
