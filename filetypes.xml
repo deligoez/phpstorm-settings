@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="pre-push" type="AUTO_DETECTED" />
       <mapping ext="dist" type="AUTO_DETECTED" />
       <mapping ext="php_cs" type="PHP" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
