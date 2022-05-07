@@ -30,6 +30,7 @@
       <list>
         <option value="Default.Root" />
         <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
       </list>
     </option>
     <option name="COLUMN_ID_VISIBILITY">
