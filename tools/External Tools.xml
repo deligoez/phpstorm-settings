@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="minio" description="Start Minio" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="minio" />
+      <option name="PARAMETERS" value="server --address :9005 /Users/deligoez/Documents/mucellithane_data/files/" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$" />
+    </exec>
+  </tool>
+</toolSet>
