@@ -8,6 +8,15 @@
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
   </component>
+  <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="inheritors" value="Default" />
+        <entry key="references" value="Default" />
+        <entry key="vcs.code.vision" value="Right" />
+      </map>
+    </option>
+  </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
@@ -40,7 +49,7 @@
     <option name="RENAME_VARIABLES_INPLACE" value="false" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="composer.package.version.hints" />
+    <option name="lastViewedProviderKeyId" value=".vcs.code.vision" />
   </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_HERE_DOCS" value="true" />
