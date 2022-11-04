@@ -5,9 +5,9 @@
       <mapping ext="dist" type="AUTO_DETECTED" />
       <mapping ext="php_cs" type="PHP" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
+      <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping pattern=".mailmap" type="PLAIN_TEXT" />
       <mapping pattern=".rnd" type="PLAIN_TEXT" />
-      <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping ext="fish" type="PLAIN_TEXT" />
       <mapping ext="tx" type="PLAIN_TEXT" />
       <mapping ext="phony" type="PLAIN_TEXT" />
