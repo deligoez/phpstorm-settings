@@ -6,6 +6,7 @@
     <option name="commitDialogGitmojiCompletion" value="true" />
     <option name="commitDialogGitmojiCompletionUnicode" value="true" />
     <option name="previousVersionMigrated" value="true" />
+    <option name="startupNotificationVersion" value="1" />
     <option name="version" value="6" />
   </component>
 </application>
